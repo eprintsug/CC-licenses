@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase"
+  xmlns:epc="http://eprints.org/ep3/control">
+
+  <epp:phrase id="license_image_cc_by1">
+    <a href="http://creativecommons.org/licenses/by/1.0/" target="_blank"><img src="/license_images/by-1.0-88x31.png" alt="Creative Commons: Attribution 1.0 Generic (CC BY 1.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by2">
+    <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank"><img src="/license_images/by-2.0-88x31.png" alt="Creative Commons: Attribution 2.0 Generic (CC BY 2.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by2_5">
+    <a href="http://creativecommons.org/licenses/by/2.5/" target="_blank"><img src="/license_images/by-2.0-88x31.png" alt="Creative Commons: Attribution 2.5 Generic (CC BY 2.5)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by3">
+    <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank"><img src="/license_images/by-3.0-88x31.png" alt="Creative Commons: Attribution 3.0 Unported (CC BY 3.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by4">
+    <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img src="/license_images/by-4.0-88x31.png" alt="Creative Commons: Attribution 4.0 International (CC BY 4.0)" /></a>
+  </epp:phrase>
+  
+  <epp:phrase id="license_image_cc_by_nc1">
+    <a href="http://creativecommons.org/licenses/by-nc/1.0/" target="_blank"><img src="/license_images/by-nc-1.0-88x31.png" alt="Creative Commons: Attribution-NonCommercial 1.0 Generic (CC BY-NC 1.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc2">
+    <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank"><img src="/license_images/by-nc-2.0-88x31.png" alt="Creative Commons: Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc2_5">
+    <a href="http://creativecommons.org/licenses/by-nc/2.5/" target="_blank"><img src="/license_images/by-nc-2.5-88x31.png" alt="Creative Commons: Attribution-NonCommercial 2.5 Generic (CC BY-NC 2.5)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc3">
+    <a href="http://creativecommons.org/licenses/by-nc/3.0/" target="_blank"><img src="/license_images/by-nc-3.0-88x31.png" alt="Creative Commons: Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc4">
+    <a href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank"><img src="/license_images/by-nc-4.0-88x31.png" alt="Creative Commons: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)" /></a>
+  </epp:phrase>
+  
+  <epp:phrase id="license_image_cc_by_nd_nc1">
+    <a href="http://creativecommons.org/licenses/by-nd-nc/1.0/" target="_blank"><img src="/license_images/by-nd-nc-1.0-88x31.png" alt="Creative Commons: Attribution-NoDerivs-NonCommercial 1.0 Generic (CC BY-ND-NC 1.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc_nd2">
+    <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank"><img src="/license_images/by-nc-nd-2.0-88x31.png" alt="Creative Commons: Attribution-NonCommercial-NoDerivs 2.0 Generic (CC BY-NC-ND 2.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc_nd2_5">
+    <a href="http://creativecommons.org/licenses/by-nc-nd/2.5/" target="_blank"><img src="/license_images/by-nc-nd-2.5-88x31.png" alt="Creative Commons: Attribution-NonCommercial-NoDerivs 2.5 Generic (CC BY-NC-ND 2.5)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc_nd3">
+    <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/" target="_blank"><img src="/license_images/by-nc-nd-3.0-88x31.png" alt="Creative Commons: Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc_nd4">
+    <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="/license_images/by-nc-nd-4.0-88x31.png" alt="Creative Commons: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)" /></a>
+  </epp:phrase>
+  
+  <epp:phrase id="license_image_cc_by_nc_sa1">
+    <a href="http://creativecommons.org/licenses/by-nc-sa/1.0/" target="_blank"><img src="/license_images/by-nc-sa-1.0-88x31.png" alt="Creative Commons: Attribution-NonCommercial-ShareAlike 1.0 Generic (CC BY-NC-SA 1.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc_sa2">
+    <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank"><img src="/license_images/by-nc-sa-2.0-88x31.png" alt="Creative Commons: Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc_sa2_5">
+    <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/" target="_blank"><img src="/license_images/by-nc-sa-2.5-88x31.png" alt="Creative Commons: Attribution-NonCommercial-ShareAlike 2.5 Generic (CC BY-NC-SA 2.5)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc_sa3">
+    <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank"><img src="/license_images/by-nc-sa-3.0-88x31.png" alt="Creative Commons: Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nc_sa4">
+    <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img src="/license_images/by-nc-sa-4.0-88x31.png" alt="Creative Commons: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)" /></a>
+  </epp:phrase>
+  
+  <epp:phrase id="license_image_cc_by_nd1">
+    <a href="http://creativecommons.org/licenses/by-nd/1.0/" target="_blank"><img src="/license_images/by-nd-1.0-88x31.png" alt="Creative Commons: Attribution-NoDerivs 1.0 Generic (CC BY-ND 1.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nd2">
+    <a href="http://creativecommons.org/licenses/by-nd/2.0/" target="_blank"><img src="/license_images/by-nd-2.0-88x31.png" alt="Creative Commons: Attribution-NoDerivs 2.0 Generic (CC BY-ND 2.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nd2_5">
+    <a href="http://creativecommons.org/licenses/by-nd/2.5/" target="_blank"><img src="/license_images/by-nd-2.5-88x31.png" alt="Creative Commons: Attribution-NoDerivs 2.5 Generic (CC BY-ND 2.5)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nd3">
+    <a href="http://creativecommons.org/licenses/by-nd/3.0/" target="_blank"><img src="/license_images/by-nd-3.0-88x31.png" alt="Creative Commons: Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_nd4">
+    <a href="http://creativecommons.org/licenses/by-nd/4.0/" target="_blank"><img src="/license_images/by-nd-4.0-88x31.png" alt="Creative Commons: Attribution-No Derivatives 4.0 International (CC BY-ND 4.0)" /></a>
+  </epp:phrase>
+  
+  <epp:phrase id="license_image_cc_by_sa1">
+    <a href="http://creativecommons.org/licenses/by-sa/1.0/" target="_blank"><img src="/license_images/by-sa-1.0-88x31.png" alt="Creative Commons: Attribution-ShareAlike 1.0 Generic (CC BY-SA 1.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_sa2">
+    <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank"><img src="/license_images/by-sa-2.0-88x31.png" alt="Creative Commons: Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_sa2_5">
+    <a href="http://creativecommons.org/licenses/by-sa/2.5/" target="_blank"><img src="/license_images/by-sa-2.5-88x31.png" alt="Creative Commons: Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_sa3">
+    <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank"><img src="/license_images/by-sa-3.0-88x31.png" alt="Creative Commons: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_cc_by_sa4">
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img src="/license_images/by-sa-4.0-88x31.png" alt="Creative Commons: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)" /></a>
+  </epp:phrase>
+  
+  <epp:phrase id="license_image_cc_public_domain">
+    <a href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank"><img src="/license_images/zero-1.0-88x31.png" alt="Creative Commons: Public Domain Dedication: CC0 1.0 Universal (CC0 1.0)" /></a>
+  </epp:phrase>
+  
+  <epp:phrase id="license_image_gnu_gpl2">
+    <a href="http://opensource.org/licenses/GPL-2.0" target="_blank"><img src="/license_images/GPL-2.0-88x62.png" alt="Software: GNU General Public License, version 2.0 (GPL-2.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_gnu_gpl3">
+    <a href="http://opensource.org/licenses/GPL-3.0" target="_blank"><img src="" alt="Software: GNU General Public License, version 3.0 (GPL-3.0)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_gnu_lgpl2_1">
+    <a href="http://opensource.org/licenses/LGPL-2.1" target="_blank"><img src="/license_images/LGPL-2.1-88x62.png" alt="Software: GNU Lesser General Public License, version 2.1 (LGPL-2.1)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_gnu_lgpl3">
+    <a href="http://opensource.org/licenses/LGPL-3.0" target="_blank"><img src="" alt="Software: GNU Lesser General Public License, version 3.0 (LGPL-3.0)" /></a>
+  </epp:phrase>
+
+  <epp:phrase id="license_image_odc_odbl">
+    <a href="http://opendatacommons.org/licenses/odbl/" target="_blank"><img src="" alt="Open Data Commons Open Database License (ODbL)" /></a>
+  </epp:phrase>
+  <epp:phrase id="license_image_odc_by">
+    <a href="http://opendatacommons.org/licenses/by/" target="_blank"><img src="" alt="Open Data Commons Attribution License" /></a>
+  </epp:phrase>
+</epp:phrases>
